@@ -1,6 +1,6 @@
 [package]
 name = "bibleparsing"
-version = "0.1.0"
+version = "0.1.2"
 edition = "2021"
 description = "Read and/or validate Koine Greek parsing codes."
 authors = ["Jay Rhoden <hello@scripturial.com>"]
