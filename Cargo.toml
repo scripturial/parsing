@@ -1,0 +1,14 @@
+[package]
+name = "parsing"
+version = "0.1.0"
+edition = "2021"
+description = "Read and/or validate Koine Greek parsing codes."
+authors = ["Jay Rhoden <hello@scripturial.com>"]
+license = "MIT"
+repository = "https://github.com/scripturial/parsing"
+readme = "README.md"
+keywords = ["betacode", "biblical-greek", "parsing", "linguistics"]
+categories = ["parsing"]
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
