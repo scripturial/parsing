@@ -1,5 +1,6 @@
 This crate converts parsing strings into a u32 using `from_string()` and converts a u32
-back to a parsing string using `to_string`. It also provides helper functions to update
+back to a parsing string using `to_string()`. Use the macro `parsing_string!("N-NSN")`
+to insert a u32 value in your code. It also provides helper functions to update
 and check the contents of the u32. It its tested against every parsing code found in the
 Byzantine and Nestle 1904 text/data files.
 
