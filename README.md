@@ -17,4 +17,5 @@ warantee is given or implied.
 This code may have bugs, but, it currently successfully in use in production, such as
 for the https://scripturial.com/ project.
 
+Rust Docs: https://docs.rs/bibleparsing/0.1.3/bibleparsing/
 Rust Crate: https://crates.io/crates/bibleparsing
