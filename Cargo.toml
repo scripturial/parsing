@@ -1,5 +1,5 @@
 [package]
-name = "parsing"
+name = "bibleparsing"
 version = "0.1.0"
 edition = "2021"
 description = "Read and/or validate Koine Greek parsing codes."
